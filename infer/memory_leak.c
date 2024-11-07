@@ -1,24 +1,28 @@
 // memory_leak.c
-// error: NULLPTR_DEREFERENCE
+// error: MEMORY_LEAK_C
 // infer run -- gcc -c memory_leak.c
 
 #include <stdio.h>
 #include <stdlib.h>
 
-void example_function()
+void conditional_memory_leak(int flag)
 {
     int *arr = (int *)malloc(10 * sizeof(int));
-    // Some operations with arr
-    for (int i = 0; i < 10; i++)
+    if (arr == NULL)
     {
-        arr[i] = i * i;
+        return;
     }
-    // Missing free(arr); - Memory leak here
-    printf("Example function executed\n");
+    if (flag)
+    {
+        free(arr); // Memory freed only if flag is set
+    }
+    // If flag is not set, arr is leaked
+    printf("Function executed\n");
 }
 
 int main()
 {
-    example_function();
+    // arr is not freed here, causing a leak
+    conditional_memory_leak(0);
     return 0;
 }
