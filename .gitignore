@@ -1,3 +1,9 @@
+# vscode related
+.vscode/
+
+# Infer related
+infer-out/
+
 # Prerequisites
 *.d
 
