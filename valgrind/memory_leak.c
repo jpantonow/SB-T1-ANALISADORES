@@ -2,14 +2,14 @@
 #include <stdio.h>
 
 int main(){
-    int *vetor = malloc(sizeof(int)*100);
+    int *vector = malloc(sizeof(int)*100);
     
     for(int i = 0; i < 100; i++)
-        vetor[i] = i;
+        vector[i] = i;
     
     int val = 45;
 
-    printf("%d\n", vetor[val]);
+    printf("%d\n", vector[val]);
 
     return 0;
 }
