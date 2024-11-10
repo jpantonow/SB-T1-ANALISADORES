@@ -7,8 +7,6 @@ que auxilia na testagem é a utilização do subsistema WSL para a configuraçã
 
 ## Referências
 
-## Referências
-
 1. [Infer: Analyzing Source Code Statically](https://fbinfer.com/docs/about-Infer)
 2. [About Valgrind](https://valgrind.org/info/about.html)
 3. [Moving Fast with Software Verification](https://research.facebook.com/file/892640211665108/publication00124_download0001.pdf)  
