@@ -15,15 +15,3 @@ que auxilia na testagem é a utilização do subsistema WSL para a configuraçã
 4. [Static Versus Dynamic Source Code Analysis](https://www.researchgate.net/publication/335173360_Static_Versus_Dynamic_Source_Code_Analysis)  
    Korhan Akcura, Reza Shalchian, Abhijit Patil, Rattandeep Singh, Jay Tanna.
 5. [Valgrind - Buffer Overflow](https://www.cnblogs.com/xjsxjtu/p/4539028.html)
-
-
-https://fbinfer.com/docs/about-Infer
-
-https://valgrind.org/info/about.html
-
-https://research.facebook.com/file/892640211665108/publication00124_download0001.pdf
-
-Static Versus Dynamic Source Code Analysis
-Korhan Akcura, Reza Shalchian, Abhijit Patil, Rattandeep Singh, Jay Tanna
-
-https://www.cnblogs.com/xjsxjtu/p/4539028.html
