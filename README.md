@@ -15,4 +15,4 @@ que auxilia na testagem é a utilização do subsistema WSL para a configuraçã
 5. [Valgrind - Buffer Overflow](https://www.cnblogs.com/xjsxjtu/p/4539028.html)
 
 ## Vídeo
-[Grupo 5 - Analisadores - Software Básico] (https://youtu.be/uymR7HOd28s)
+[Grupo 5 - Analisadores - Software Básico](https://youtu.be/uymR7HOd28s)
