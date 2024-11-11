@@ -13,3 +13,6 @@ que auxilia na testagem é a utilização do subsistema WSL para a configuraçã
 4. [Static Versus Dynamic Source Code Analysis](https://www.researchgate.net/publication/335173360_Static_Versus_Dynamic_Source_Code_Analysis)  
    Korhan Akcura, Reza Shalchian, Abhijit Patil, Rattandeep Singh, Jay Tanna.
 5. [Valgrind - Buffer Overflow](https://www.cnblogs.com/xjsxjtu/p/4539028.html)
+
+## Vídeo
+[Grupo 5 - Analisadores - Software Básico] (https://youtu.be/uymR7HOd28s)
